@@ -20,3 +20,5 @@ Indices and tables
 * :ref:`search`
 
 This is just a test
+
+Sample test
